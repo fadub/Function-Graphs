@@ -1,10 +1,8 @@
 # About project
-
 ###Quality: **OK**
-
 ###Year of creation: 2019
 
-## Scale of quality
+## Scale
 **professional**
 maintainable, scalable and performing -> well thought out architecture, clean structure, complete documentation
 
