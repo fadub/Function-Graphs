@@ -1,6 +1,6 @@
 # About project
-###Quality: **OK**
-###Year of creation: 2019
+### Quality: **OK**
+### Year of creation: 2019
 
 ## Scale
 **professional**
