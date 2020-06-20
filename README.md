@@ -2,7 +2,7 @@
 ### Quality: **OK**
 ### Year of creation: 2019
 
-## Scale
+## Scale of quality
 **professional**
 maintainable, scalable and performing -> well thought out architecture, clean structure, complete documentation
 
